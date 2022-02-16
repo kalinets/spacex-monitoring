@@ -1,5 +1,7 @@
 #Notes
 
+![](spacex-monitor.png)
+
 Considering the strict time limit for the task I decided to start with the popular boilerplate, without TypeScript, though I use it in everyday job, just thought I'd rather not spend any time finding the proper type for anything, and plus I kind of forgot about how it is to work with plain JS. I somewhat regret about this decision now.
 
 I also wanted to try the React Query library for this task, though I haven't used it before. It might look like an overhead here, but I liked the experience and certainly will try to learn the library deeper.
